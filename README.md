@@ -1,14 +1,14 @@
 # 📊 LeetCode – Introduction to Pandas (15/15)
 
 <a href="https://leetcode.com/u/ManyaLuthra/">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ManyaLuthra&filter=study" alt="LeetCode Pandas Badge" />
+  <img src="leetcode.com/medal/?showImg=0&id=9457835&isLevel=false" />
 </a>
 
 Solved all 15 problems from the **Introduction to Pandas** LeetCode study plan.  
 Below are direct links to each LeetCode problem.
 
 > Study plan: https://leetcode.com/studyplan/introduction-to-pandas/
-
+ 
 ---
 
 ## Problems List
