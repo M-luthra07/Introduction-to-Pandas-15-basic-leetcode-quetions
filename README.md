@@ -22,7 +22,7 @@ This study plan is designed to build a solid foundation in:
 | 2877 | Create a DataFrame from List | [🔗](https://leetcode.com/problems/create-a-dataframe-from-list/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2877.%20Create%20a%20DataFrame%20from%20List.py ) |
 | 2878 | Get the Size of a DataFrame | [🔗](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2878.Get%20the%20Size%20of%20a%20DataFrame.py ) |
 | 2879 | Display the First Three Rows | [🔗](https://leetcode.com/problems/display-the-first-three-rows/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2879.%20Display%20the%20First%20Three%20Rows.py ) |
-| 2880 | Select Data | [🔗](https://leetcode.com/problems/select-data/) | [✅](./solutions/2880_select_data.py) |
+| 2880 | Select Data | [🔗](https://leetcode.com/problems/select-data/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2880.%20Select%20Data.py ) |
 | 2881 | Create a New Column | [🔗](https://leetcode.com/problems/create-a-new-column/) | [✅](./solutions/2881_create_a_new_column.py) |
 | 2882 | Drop Duplicate Rows | [🔗](https://leetcode.com/problems/drop-duplicate-rows/) | [✅](./solutions/2882_drop_duplicate_rows.py) |
 | 2883 | Drop Missing Data | [🔗](https://leetcode.com/problems/drop-missing-data/) | [✅](./solutions/2883_drop_missing_data.py) |
