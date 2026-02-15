@@ -26,14 +26,14 @@ This study plan is designed to build a solid foundation in:
 | 2881 | Create a New Column | [🔗](https://leetcode.com/problems/create-a-new-column/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2881.%20Create%20a%20New%20Column.py ) |
 | 2882 | Drop Duplicate Rows | [🔗](https://leetcode.com/problems/drop-duplicate-rows/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2882.%20Drop%20Duplicate%20Rows.py ) |
 | 2883 | Drop Missing Data | [🔗](https://leetcode.com/problems/drop-missing-data/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2883.%20Drop%20Missing%20Data.py ) |
-| 2884 | Modify Columns | [🔗](https://leetcode.com/problems/modify-columns/) | [✅](./solutions/2884_modify_columns.py) |
-| 2885 | Rename Columns | [🔗](https://leetcode.com/problems/rename-columns/) | [✅](./solutions/2885_rename_columns.py) |
-| 2886 | Change Data Type | [🔗](https://leetcode.com/problems/change-data-type/) | [✅](./solutions/2886_change_data_type.py) |
-| 2887 | Fill Missing Data | [🔗](https://leetcode.com/problems/fill-missing-data/) | [✅](./solutions/2887_fill_missing_data.py) |
-| 2888 | Reshape Data: Concatenate | [🔗](https://leetcode.com/problems/reshape-data-concatenate/) | [✅](./solutions/2888_reshape_data_concatenate.py) |
-| 2889 | Reshape Data: Pivot | [🔗](https://leetcode.com/problems/reshape-data-pivot/) | [✅](./solutions/2889_reshape_data_pivot.py) |
-| 2890 | Reshape Data: Melt | [🔗](https://leetcode.com/problems/reshape-data-melt/) | [✅](./solutions/2890_reshape_data_melt.py) |
-| 2891 | Method Chaining | [🔗](https://leetcode.com/problems/method-chaining/) | [✅](./solutions/2891_method_chaining.py) |
+| 2884 | Modify Columns | [🔗](https://leetcode.com/problems/modify-columns/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2884.%20Modify%20Columns.py ) |
+| 2885 | Rename Columns | [🔗](https://leetcode.com/problems/rename-columns/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2885.%20Rename%20Columns.py) |
+| 2886 | Change Data Type | [🔗](https://leetcode.com/problems/change-data-type/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2886.%20Change%20Data%20Type.py ) |
+| 2887 | Fill Missing Data | [🔗](https://leetcode.com/problems/fill-missing-data/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2887.Fill%20Missing%20Data.py ) |
+| 2888 | Reshape Data: Concatenate | [🔗](https://leetcode.com/problems/reshape-data-concatenate/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2888.%20Reshape%20Data%3A%20Concatenate.py ) |
+| 2889 | Reshape Data: Pivot | [🔗](https://leetcode.com/problems/reshape-data-pivot/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2889.%20Reshape%20Data%3A%20Pivot.py) |
+| 2890 | Reshape Data: Melt | [🔗](https://leetcode.com/problems/reshape-data-melt/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2890%20Reshape%20Data%3A%20Melt.py) |
+| 2891 | Method Chaining | [🔗](https://leetcode.com/problems/method-chaining/) | [✅](https://github.com/M-luthra07/Introduction-to-Pandas-15-basic-leetcode-quetions/blob/main/2891.Method%20Chaining.py) |
 
 ---
 
