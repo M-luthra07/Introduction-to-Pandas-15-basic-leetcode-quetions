@@ -39,7 +39,6 @@ This study plan is designed to build a solid foundation in:
 
 ## 🚀 How to Use
 1.  **Clone the repository**.
-2.  Navigate to the `solutions/` folder to view individual scripts.
-3.  Each file contains a clean implementation of the problem using Pandas.
+2.  Each file contains a clean implementation of the problem using Pandas.
 
 *Happy Coding!* 🚀
